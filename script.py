@@ -1,5 +1,6 @@
 # Camera trap script
 # Laura is awesome.
+# So is Kendra
 # All rights reserved
 
 Read data file
@@ -12,5 +13,7 @@ Make header bold
 
 Make small figure, red line
 
-Go take a nap
+Go take a nap and go shopping
+
+...and drink beer
 
