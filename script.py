@@ -3,17 +3,17 @@
 # So is Kendra
 # All rights reserved
 
-Read data file
+Read data file, boring
 
-Run analysis
+Run analysis, boring
 
-Make table
+Make table, boring
 
-Make header bold
+Make header bold, boring
 
-Make small figure, red line
+Make small figure, red line, boring
 
-Go take a nap and go shopping
+Go take a nap and go shopping, yes
 
-...and drink beer
+...and drink beer, lots and lots of beer, double yes
 
