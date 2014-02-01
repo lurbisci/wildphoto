@@ -2,16 +2,20 @@
 # Laura and Kendra are awesome!
 # All rights reserved
 
-Read data file
+Read data file, boring
 
-Run analysis
+Run analysis, boring
 
-Make table
+Make table, boring
 
-Make header bold
+Make header bold, boring
 
-Make small figure, red line
+Make small figure, red line, boring
 
 Let's go to the mall, today!
 ...and drink beer
+
+Go take a nap and go shopping, yes
+...and drink beer, lots and lots of beer, double yes
+
 
